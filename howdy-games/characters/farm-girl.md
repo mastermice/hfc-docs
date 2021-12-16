@@ -12,6 +12,8 @@ There will only ever be **1,500 Farm Girls**, producing **0.5 $POTATO daily**, f
 
 
 
+yoyo
+
 {% hint style="info" %}
 You have to **pay / burn** $POTATO in order to get a [**Farm Girl**](farm-girl.md).\
 The amount of $POTATO will be announced before the breeding goes live.

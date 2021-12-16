@@ -18,10 +18,10 @@ Check all the characters to see the different utility:
 
 [Farm Girl](farm-girl.md)
 
-Chicken
+[Chicken](animals/chicken.md)
 
-Pig
+[Pig](animals/pig.md)
 
-Cow
+[Cow](animals/cow.md)
 
-Donkey
+[Donkey](animals/donkey.md)

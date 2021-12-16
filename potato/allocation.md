@@ -6,7 +6,7 @@ description: This is not including the emmissions from the NFTs.
 
 ## The LP starts sometime in Q1.&#x20;
 
-Until then the only way to aquire $POTATO is by doing honest at the [Farm](../howdy-games/locations/farm.md).
+Until then the only way to aquire $POTATO is by doing honest work at the [Farm](../howdy-games/locations/farm.md).
 
 ## SUPPLY
 
