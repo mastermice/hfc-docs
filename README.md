@@ -1,5 +1,5 @@
 ---
-description: '**Howdy Games Whitepaper'
+description: Howdy Games Whitepaper
 cover: .gitbook/assets/Twitter Banner 1920x640.jpg
 coverY: 0
 ---
