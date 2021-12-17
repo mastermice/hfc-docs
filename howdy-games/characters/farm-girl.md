@@ -8,11 +8,9 @@ The **Farm Girls** introduce our **first breeding mechanism.**&#x20;
 
 Please see **how to get a Farm Girl** at our [**Wedding Location**](../locations/wedding-location.md).
 
-There will only ever be **1,500 Farm Girls**, producing **0.5 $POTATO daily**, forever.
+There will only ever be **3,000 Farm Girls**, producing **0.3 $POTATO daily**, forever.
 
 
-
-yoyo
 
 {% hint style="info" %}
 You have to **pay / burn** $POTATO in order to get a [**Farm Girl**](farm-girl.md).\
