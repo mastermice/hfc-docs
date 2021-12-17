@@ -6,13 +6,10 @@ description: Marry your wife with our unique breeding mechanism.
 
 The **Farm Girls** introduce our **first breeding mechanism.**&#x20;
 
-Please see **how to get a Farm Girl** at our [**Wedding Location**](../locations/wedding-location.md).
+Please see **how to breed a Farm Girl** at our [**Wedding Location**](../locations/wedding-location.md).
 
 There will only ever be **3,000 Farm Girls**, producing **0.3 $POTATO daily**, forever.
 
-
-
 {% hint style="info" %}
-You have to **pay / burn** $POTATO in order to get a [**Farm Girl**](farm-girl.md).\
-The amount of $POTATO will be announced before the breeding goes live.
+You have to **burn** **a ring** in order to get a [**Farm Girl**](farm-girl.md).
 {% endhint %}
