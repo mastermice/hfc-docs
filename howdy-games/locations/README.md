@@ -6,7 +6,7 @@ description: Find out below what you can expect at the different locations.
 
 ## 16 locations in total
 
-You can use the order below as an aiming point for the locations coming to you next.
+Roadmap of the locations and features included.&#x20;
 
 ### Start
 
