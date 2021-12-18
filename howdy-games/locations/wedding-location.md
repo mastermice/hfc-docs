@@ -7,7 +7,7 @@ description: This is the place where you will be able to "breed" your Farm Girl.
 ## How to buy a wedding ring
 
 In order to marry your wife you have to **buy a wedding ring first.** \
-****You have to **burn 70 $POTATO** to buy a wedding ring. \
+****You have to **burn $POTATO** to buy a wedding ring. \
 **Decide** which farmer should be her **husband**, and which one the **best man**.&#x20;
 
 ## How to get a Farm Girl
