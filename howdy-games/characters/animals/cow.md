@@ -2,7 +2,7 @@
 description: 1500 only.
 ---
 
-# Cow
+# 🐮 Cow
 
 ### 1,500 Cows.
 

@@ -1,4 +1,4 @@
-# Arena
+# 🥇 Arena
 
 Earn $POTATO by letting your [**chickens** ](../characters/animals/chicken.md)**fight** or **bet** $POTATO on your favorite.
 

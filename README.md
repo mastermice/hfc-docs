@@ -11,7 +11,10 @@ coverY: 0
 
 ## Honest Farmer Club
 
-Welcome to the Honest Farmer Club. We are happy to present you the "[**Howdy Games**](howdy-games/what-are-the-howdy-games.md)"\
+Welcome to the Honest Farmer Club. We are happy to present you the "[**Howdy Games**](howdy-games/what-are-the-howdy-games.md)".
+
+100% on-chain. 100% CC0 „Creative Commons“ License. 100% crypto.
+
 
 
 \

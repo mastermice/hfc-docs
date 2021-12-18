@@ -1,4 +1,4 @@
-# Strategy
+# ♟ Strategy
 
 The **higher** your **strategy skill**, the **higher** are you´re **chances** to successfully harvest [**carrots**](../assets/carrots.md).
 

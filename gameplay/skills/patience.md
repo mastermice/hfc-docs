@@ -1,4 +1,4 @@
-# Patience
+# ⏱ Patience
 
 The **higher** your **patience skill**, the **higher** are you´re **chances** to successfully fish [**tuna**](../assets/tuna.md).
 

@@ -1,4 +1,4 @@
-# Orchard
+# 🌳 Orchard
 
 Grow [**apples**](../../gameplay/assets/apples.md).
 

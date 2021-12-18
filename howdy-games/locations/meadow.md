@@ -1,4 +1,4 @@
-# Meadow
+# 🌾 Meadow
 
 Earn $POTATO by letting your [**cows** ](../characters/animals/cow.md)compete in a **milking contest** or just bet $POTATO on your favorite.
 

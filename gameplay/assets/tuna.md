@@ -1,3 +1,3 @@
-# Tuna
+# 🐟 Tuna
 
 Features to be announced.

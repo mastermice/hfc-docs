@@ -2,7 +2,7 @@
 description: 1500 only.
 ---
 
-# Chicken
+# 🐥 Chicken
 
 ### **1,500 Chickens.**
 

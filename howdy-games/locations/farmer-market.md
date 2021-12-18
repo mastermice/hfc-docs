@@ -1,4 +1,4 @@
-# Farmer Market
+# 🍲 Farmer Market
 
 **In-game market** where you can trade **all** your different [**assets**](../../gameplay/assets/) **&** [**characters**](../characters/)**.**
 

@@ -1,4 +1,4 @@
-# Animals
+# 🦄 Animals
 
 ## We are introducing 4 different animals.
 

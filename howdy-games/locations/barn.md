@@ -1,4 +1,4 @@
-# Barn
+# 🐣 Barn
 
 You will be able to **breed** [**animals** ](../characters/animals/)at the **barn**.
 

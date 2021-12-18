@@ -2,7 +2,7 @@
 
 * [Howdy!](README.md)
 
-## HOWDY GAMES
+## 🤠 HOWDY GAMES
 
 * [What are the "Howdy Games"?](howdy-games/what-are-the-howdy-games.md)
 * [Locations](howdy-games/locations/README.md)
@@ -33,26 +33,26 @@
     * [🐮 Cow](howdy-games/characters/animals/cow.md)
     * [🐴 Donkey](howdy-games/characters/animals/donkey.md)
 
-## GAMEPLAY
+## 🎮 GAMEPLAY
 
 * [Skills](gameplay/skills/README.md)
-  * [Degen](gameplay/skills/degen.md)
-  * [Honesty](gameplay/skills/honesty.md)
-  * [Fitness](gameplay/skills/fitness.md)
-  * [Strategy](gameplay/skills/strategy.md)
-  * [Patience](gameplay/skills/patience.md)
-  * [Agility](gameplay/skills/agility.md)
+  * [🎲 Degen](gameplay/skills/degen.md)
+  * [🤝 Honesty](gameplay/skills/honesty.md)
+  * [🏋♂ Fitness](gameplay/skills/fitness.md)
+  * [♟ Strategy](gameplay/skills/strategy.md)
+  * [⏱ Patience](gameplay/skills/patience.md)
+  * [🏃♂ Agility](gameplay/skills/agility.md)
 * [Passion](gameplay/passion/README.md)
-  * [Harvesting](gameplay/passion/harvesting.md)
-  * [Fishing](gameplay/passion/fishing.md)
-  * [Planting](gameplay/passion/planting.md)
+  * [⛏ Harvesting](gameplay/passion/harvesting.md)
+  * [🎣 Fishing](gameplay/passion/fishing.md)
+  * [☘ Planting](gameplay/passion/planting.md)
 * [Assets](gameplay/assets/README.md)
-  * [Apples](gameplay/assets/apples.md)
-  * [Carrots](gameplay/assets/carrots.md)
-  * [Tuna](gameplay/assets/tuna.md)
+  * [🍎 Apples](gameplay/assets/apples.md)
+  * [🥕 Carrots](gameplay/assets/carrots.md)
+  * [🐟 Tuna](gameplay/assets/tuna.md)
 * [Leveling](gameplay/leveling.md)
 
-## POTATO
+## 🥔 POTATO
 
 * [Allocation](potato/allocation.md)
 * [Unlock Schedule](potato/unlock-schedule.md)

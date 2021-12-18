@@ -2,7 +2,7 @@
 description: This is the place where you will be able to "breed" your Farm Girl.
 ---
 
-# Wedding Location
+# 💍 Wedding Location
 
 ## How to buy a wedding ring
 

@@ -1,3 +1,3 @@
-# Apples
+# 🍎 Apples
 
 Features to be announced.
