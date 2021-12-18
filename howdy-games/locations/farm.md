@@ -1,4 +1,4 @@
-# Farm
+# 🏠 Farm
 
 The place to **stake your** [**farmer**](../characters/farmer.md)**.**
 
