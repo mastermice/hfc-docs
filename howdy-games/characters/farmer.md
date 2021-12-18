@@ -11,7 +11,7 @@ Farmers are needed in order to get **early access** to the Howdy Games before fu
 
 Whitelist Mint Date: **27th December**
 
-Public Mint Date: **27th December**
+Public Mint Date: **29th December**
 
 Mint price: **0.08 ETH**
 
