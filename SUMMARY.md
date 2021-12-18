@@ -19,7 +19,7 @@
   * [🏦 Bank](howdy-games/locations/bank.md)
   * [🏎 Race Track](howdy-games/locations/race-track.md)
   * [💇♂ Hair Stylist](howdy-games/locations/hair-stylist.md)
-  * [✍ Real Estate Agency](howdy-games/locations/real-estate-agency.md)
+  * [🏝 Real Estate Agency](howdy-games/locations/real-estate-agency.md)
   * [🌾 Meadow](howdy-games/locations/meadow.md)
   * [🍲 Farmer Market](howdy-games/locations/farmer-market.md)
 * [Land](howdy-games/land.md)
