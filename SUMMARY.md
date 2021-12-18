@@ -12,7 +12,7 @@
   * [♣ Country Club](howdy-games/locations/country-club.md)
   * [🎯 Wheel of Fortune](howdy-games/locations/wheel-of-fortune.md)
   * [🐣 Barn](howdy-games/locations/barn.md)
-  * [🌊 River](howdy-games/locations/river.md)
+  * [🎣 River](howdy-games/locations/river.md)
   * [🌳 Orchard](howdy-games/locations/orchard.md)
   * [🥕 Field](howdy-games/locations/field.md)
   * [🥇 Arena](howdy-games/locations/arena.md)
