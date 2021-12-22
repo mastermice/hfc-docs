@@ -1,7 +1,9 @@
 # 🏦 Bank
 
-**Stake** your $POTATO. Later on there will be an **in-game DEX**, where you can **buy & sell** your $POTATO **directly** in the "Howdy Games", **without** using Uniswap or other **alternatives**. This gets implemented at the time we launch the liquidity pool, shortly after the mint.
+**Stake** your $POTATO in the bank, earning honest interest rates.&#x20;
+
+Ata later point in time, there will be an **in-game DEX**, where you can **buy & sell** your $POTATO **directly** in the "Howdy Games", **without** using Uniswap or other **alternatives**. The DEX will get released at the moment we launch the liquidity pool, more information coming in Q1.
 
 {% hint style="info" %}
-Check our [$POTATO tokenomics](broken-reference) to learn about our in-game currency, as well as the governance token for the [**Howdy Games**](broken-reference) **DAO.**
+Check out [$POTATO tokenomics](broken-reference) to learn about the in-game currency, which is also the governance token for the [**Howdy Games**](broken-reference) **DAO.**
 {% endhint %}
