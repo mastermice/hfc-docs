@@ -1,6 +1,12 @@
+---
+description: >-
+  Buy, sell and rent lend plots of virtual land. More utility & power in the
+  game, become a digital landlord in the metaverse!
+---
+
 # Land
 
-Our "[**Real Estate Agency**](locations/real-estate-agency.md)" will be introduced in **Q1 22.**&#x20;
+The "[**Real Estate Agency**](locations/real-estate-agency.md)" will be introduced in **Q1 22.**&#x20;
 
 ## Become a landlord in the metaverse.
 
