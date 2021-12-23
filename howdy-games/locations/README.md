@@ -1,6 +1,6 @@
 ---
 description: Roadmap of the locations and features included.
-cover: ../../.gitbook/assets/Artboard 1@1x.png
+cover: ../../.gitbook/assets/map@1x.png
 coverY: 0
 ---
 
@@ -13,7 +13,7 @@ Find out below what you can expect at the different locations.
 ![Welcome to the Howdy Games.&#x20;
 This is the place where metaverse farmers wanna be at.&#x20;
 Farm $POTATO, breed different animals, buy land or lend all the assets out to other players.&#x20;
-You can improve your farmer by making quests or competing in the minigames.](<../../.gitbook/assets/Artboard 1@1x.png>)
+You can improve your farmer by making quests or competing in the minigames.](../../.gitbook/assets/map@1x.png)
 
 
 
