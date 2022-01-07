@@ -32,6 +32,8 @@
     * [🐷 Pig](howdy-games/characters/animals/pig.md)
     * [🐮 Cow](howdy-games/characters/animals/cow.md)
     * [🐴 Donkey](howdy-games/characters/animals/donkey.md)
+* [Renting](howdy-games/renting.md)
+* [P2E (play-to-earn)](howdy-games/p2e-play-to-earn.md)
 
 ## 🎮 GAMEPLAY
 
