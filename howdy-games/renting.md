@@ -6,7 +6,9 @@ description: There will be 3 different ways to rent out your characters.
 
 #### The "Howdy Games" rental system will be implemented by using delegations. Scholars will never be able to do anything besides playing the game.&#x20;
 
-Everything will happen on a trustless basis.&#x20;
+Everything will happen on a trustless basis. \
+More detailed information about the technology & mechanics will be introduced later. \
+The renting system will be implemented **after** the [Arena](locations/arena.md).
 
 ### 1. Manager/Scholar System
 
