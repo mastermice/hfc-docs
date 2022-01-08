@@ -24,11 +24,11 @@ Until then the only way to aquire $POTATO is by doing honest work at the [Farm](
 
 #### **LP rewards**&#x20;
 
-60%
+45%
 
 #### **In-game rewards**
 
-10%
+25%
 
 #### **Promotion & Marketing**
 
