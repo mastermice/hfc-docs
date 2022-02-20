@@ -33,6 +33,8 @@ You have to **burn $POTATO** to breed a cow at the [**barn**](../../locations/ba
 
 ## Donkeys
 
-They produce **0.5 $POTATO daily**, forever.
+They produce **5 $POTATO daily**, forever.
 
 **Only available** if you hold **ALL other** [**characters**](../).
+
+More utility TBA.&#x20;

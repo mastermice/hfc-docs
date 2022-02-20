@@ -2,10 +2,12 @@
 description: The place to edit your characters for social media.
 ---
 
-# Hair Stylist
+# 💇♂ Hair Stylist
 
 Create **customized** profile pictures, headers & more for your **socials**.
 
+You can also burn some $POTATO (amount TBA) to change the name of your characters.
 
-
-**Check our socials at the** [**Country Club**](country-club.md)**.**
+{% hint style="info" %}
+Prices for name changes still TBA.&#x20;
+{% endhint %}

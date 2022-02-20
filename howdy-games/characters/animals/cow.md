@@ -1,10 +1,10 @@
 ---
-description: 1500 only.
+description: MUH!
 ---
 
 # 🐮 Cow
 
-### 1,500 Cows.
+### 3,000 Cows.
 
 They don´t receive $POTATO, but you can earn by winning in the **"Milking Contest".**\
 ****They are the **only way** how you can enter the [**Meadow**](broken-reference)**.**

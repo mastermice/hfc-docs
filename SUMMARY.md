@@ -6,6 +6,7 @@
 
 * [What are the "Howdy Games"?](howdy-games/what-are-the-howdy-games.md)
 * [Locations](howdy-games/locations/README.md)
+  * [Page 1](howdy-games/locations/page-1.md)
   * [🏠 Farm](howdy-games/locations/farm.md)
   * [💍 Wedding Location](howdy-games/locations/wedding-location.md)
   * [🚜 Tractor](howdy-games/locations/tractor.md)

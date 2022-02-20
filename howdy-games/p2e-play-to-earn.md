@@ -8,7 +8,7 @@ description: >-
 
 There are **different ways of earning $POTATO** by playing the "Howdy Games".&#x20;
 
-Since we have **many different game aspects** and sections, you´re not only able to yield $POTATO by playing.
+Since we have **many different game aspects** and sections, you are not only able to yield $POTATO by playing the different mini games.&#x20;
 
 The following things show a good overview of all future possibilities:&#x20;
 
@@ -17,10 +17,10 @@ The following things show a good overview of all future possibilities:&#x20;
 Some of the characters can be staked and give you a passive return in $POTATO. \
 All other game sections can still be played and used, even if your characters are staked. There is no reason not stake your NFTs, which can give you the following returns daily:
 
-1 $POTATO / Farmer \
-0.3 $POTATO / Farmer Girl \
-0.5 $POTATO / Donkey \
-2 $POTATO / Land
+10-15 $POTATO / Farmer \
+5-7 $POTATO / Farmer Girl \
+5 $POTATO / Donkey \
+20 $POTATO / Land
 
 ## Breeding
 
@@ -53,39 +53,53 @@ The [Arena](locations/arena.md) will feature **3 different game** **modes:**
 #### PVE MODE
 
 All chickens start with 12 energy. \
-Every energy you use needs 60 minutes to recharge. You have a 50% chance to win 0.1 $POTATO / game. This means you can win $1.2 POTATO in average daily.\
+Every energy you use needs 60 minutes to recharge. You have a 50% chance to win 0.5 $POTATO / game. This means you can win 6 $POTATO in average daily. \
 
 
 #### BATTE ROYAL MODE&#x20;
 
 Enter our Battle Royal Arena and fight in a Free-for-all game mode. These tournaments are happening daily once. Prepare yourselves for the big tournament happening every sunday, giving out 4x the prizes of a daily tournament. Prizes:
 
-1. 250 $POTATO
-2. 100 $POTATO
-3. 50 $POTATO
-4. 25 $POTATO
-5. 10 $POTATO
+1. 2500 $POTATO
+2. 1000 $POTATO
+3. 500 $POTATO
+4. 250 $POTATO
+5. 100 $POTATO
 
 #### 1v1 MODE&#x20;
 
-Fight other players. You can choose to play for fun or bet $POTATO / other assets against your opponents. You can also choose to just visit the arena as a visitor and bet $POTATO on another fight. 10% of the bet goes to the winning chicken.
+Fight other players. You can choose to play for fun or bet $POTATO against your opponents.&#x20;
+
+**Mechanics**: Both players have to bet the same amount of $POTATO. \
+The winner has a 1.9x Payout, the rest is burned. \
+
+
+Example: Both players bet 10 $POTATO. The winmer gets 19 $POTATO (1 $POTATO is burned).&#x20;
+
+
+
+**More**: There are **at least 3 more minigames** coming to the farm for other animals in the future, which will have **similar play-to-earn mechanics as the** [**Arena**](locations/arena.md).
 
 
 
 ### **Wheel of Fortune**
 
-Try your luck **daily**. Chance of **1:100** to win **3 $POTATO.**
-
-There are **at least 3 more minigames** coming to the farm for other animals in the future, which will have **similar play-to-earn mechanics as the** [**Arena**](locations/arena.md).
+Try your luck **daily**. Chance of **1%** to get a **50x Payout.**&#x20;
 
 
 
 ### **Looting**
 
 Farm [tuna](../gameplay/assets/tuna.md), [apples ](../gameplay/assets/apples.md)or [carrots](../gameplay/assets/carrots.md).\
-More information about the functionality of those assets will be added as a surprise aspect. Assets could be useful for certain breedings, games or upgrades. Make sure to collect as many as you can.
+More information about the functionality of those assets will be added as a surprise aspect. Assets could be useful for certain breedings, games or upgrades. **Make sure to collect as many as you can.**
 
 
+
+## Season Finals
+
+There will be a big final event after each season. \
+The season finals will represent a big burning event, as well as some big winners. \
+Immortalize yourself and become a real legend of the “Howdy Games" by winning the season final. You will forever get your own statue in our “**Hall of Fame**".&#x20;
 
 ### MORE TBA
 

@@ -6,7 +6,8 @@ description: 500 only.
 
 ### 500 Donkeys.
 
-They produce **0.5 $POTATO daily**, forever.
+They produce 5 **$POTATO daily**, forever, passively.\
+There is more utility coming for the donkeys, still TBA.&#x20;
 
 **Only available** if you hold **ALL other** [characters](broken-reference).
 

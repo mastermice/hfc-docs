@@ -1,10 +1,10 @@
 ---
-description: 1500 only.
+description: The chickens cannot wait to get their first companions.
 ---
 
 # 🐷 Pig
 
-### 1,500 Pigs.
+### 3,000 Pigs.
 
 They don´t receive $POTATO, but you can earn by winning in the **"Mud Race".**\
 ****They are the **only way** how you can enter the [**Race Track**](broken-reference)**.**
