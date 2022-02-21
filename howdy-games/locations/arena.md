@@ -16,11 +16,11 @@ Every energy you use needs 60 minutes to recharge. You have a 50% chance to win 
 
 Enter our Battle Royal Arena and fight in a Free-for-all game mode. These tournaments are happening daily once. Prepare yourselves for the big tournament happening every sunday, giving out 4x the prizes of a daily tournament. Prizes:
 
-1. 250 $POTATO
-2. 100 $POTATO
-3. 50 $POTATO
-4. 25 $POTATO
-5. 10 $POTATO
+1. 2500 $POTATO
+2. 1000 $POTATO
+3. 500 $POTATO
+4. 250 $POTATO
+5. 100 $POTATO
 
 ### 1v1 MODE&#x20;
 

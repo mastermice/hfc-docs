@@ -7,7 +7,7 @@ description: 'Features two options: Buying a ring & marrying your Farm Girl.'
 ## How to buy a wedding ring
 
 In order to marry your wife you have to **buy a wedding ring first.** \
-****You have to **burn 700 $POTATO** to buy a wedding ring. \
+****You have to **burn 750 $POTATO** to buy a wedding ring. \
 **Decide** which farmer should be her **husband**, and which one the **best man**.&#x20;
 
 ## How to get a Farm Girl

@@ -19,4 +19,4 @@ Your [**honesty** ](../gameplay/skills/honesty.md)**skill** improves your share.
 
 ## There will only ever be 250 Land.
 
-**Only available** if you **lock** a farmer for at least **one year & burn 250 POTATO.**
+**Only available** if you **lock** a farmer for at least **one year & burn 2500 POTATO.**
